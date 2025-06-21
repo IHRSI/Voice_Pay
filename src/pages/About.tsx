@@ -11,7 +11,7 @@ const About = () => {
     {
       name: "Anand Venukrishnan",
       role: "Co-Founder",
-      image: "./images/Screenshot 2025-06-21 233913.png",
+      image: "/images/Screenshot 2025-06-21 233913.png",
       bio: "Passionate about inclusive technology and accessibility.",
       linkedin: "https://www.linkedin.com/in/anand-venukrishnan-aa97aa282/",
       github: "https://github.com/darthbingbong",
@@ -20,7 +20,7 @@ const About = () => {
     {
       name: "Mohammed Shadab",
       role: "Co-Founder",
-      image: "./images/Screenshot 2025-06-21 233817.png",
+      image: "/images/Screenshot 2025-06-21 233817.png",
       bio: "Expert in voice technology and AI.",
       linkedin: "https://www.linkedin.com/in/mohammed-shadab-mit/",
       github: "https://github.com/CODEMRKMS",
@@ -29,7 +29,7 @@ const About = () => {
     {
       name: "Hiten Raj Singh",
       role: "Co-Founder",
-      image: "./images/Screenshot 2025-06-21 234119.png",
+      image: "/images/Screenshot 2025-06-21 234119.png",
       bio: "UX designer focused on accessibility and inclusive design.",
       linkedin: "https://www.linkedin.com/in/hiten-raj-singh-451998283",
       github: "http://github.com/IHRSI",
@@ -59,17 +59,17 @@ const About = () => {
     {
       title: "Rohit's Independence",
       story: "As a visually impaired teacher, VoicePay gave me the confidence to handle my finances independently. Now I can pay bills, send money to family, and shop online—all with just my voice.",
-      avatar: "./images/r.jpg"
+      avatar: "/images/r.jpg"
     },
     {
       title: "Vasisht Village Digitalization",
       story: "In my village, many elderly residents couldn't use smartphone apps. VoicePay in Hindi helped them join the digital economy",
-      avatar: "./images/v.jpg"
+      avatar: "/images/v.jpg"
     },
     {
       title: "Aryan's Trust",
       story: "The voice authentication gives me peace of mind. Even with limited mobility, I can make secure payments quickly and safely from anywhere.",
-      avatar: "./images/a.jpg"
+      avatar: "/images/a.jpg"
     }
   ];
 
