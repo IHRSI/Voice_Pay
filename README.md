@@ -1,4 +1,4 @@
-# 🗣️ VoicePay - Voice-Powered E-Commerce
+# <img src="https://github.com/user-attachments/assets/b6ee6820-905b-4022-801b-350ade65f443" alt="Screenshot" width="75" />  VoicePay - Voice-Powered E-Commerce
 
 ## 🚀 Live Demo
 
@@ -65,39 +65,46 @@ Easy to extend with real Amazon Pay integration or backend
 
 ---
 
-## 🎬 Screenshots
-![Screenshot 2025-06-22 202651](https://github.com/user-attachments/assets/799d70ec-983d-4290-bb8f-56ade15919a8)
+## 🎬 VoicePay Flow Walkthrough
 
-![Screenshot 2025-06-22 201912](https://github.com/user-attachments/assets/bd205517-954e-4de6-832c-9224d458323c)
 
-![Screenshot 2025-06-22 202121](https://github.com/user-attachments/assets/c38b662f-4e70-41ae-8057-a08e44502a59)
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/799d70ec-983d-4290-bb8f-56ade15919a8" width="600"/></td>
+    <td><img src="https://github.com/user-attachments/assets/bd205517-954e-4de6-832c-9224d458323c" width="600"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/c38b662f-4e70-41ae-8057-a08e44502a59" width="600"/></td>
+    <td><img src="https://github.com/user-attachments/assets/7292ffa0-16bd-4b52-9d0d-a698b5ab0e00" width="600"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/0b1fee7a-e943-45d7-98b8-9d6cb6645b80" width="600"/></td>
+    <td><img src="https://github.com/user-attachments/assets/97d868e5-309f-452c-b0e8-c9c13e36d34c" width="600"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/39d6c027-1d5e-4a5d-ab61-031be8367983" width="600"/></td>
+    <td><img src="https://github.com/user-attachments/assets/68e818a0-74b1-483a-9a38-2624e411ca26" width="600"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/d36aab1b-41c7-46af-bba4-4452bacf534b" width="600"/></td>
+    <td><img src="https://github.com/user-attachments/assets/de3ced3f-055a-434b-84d9-4802239eb0b1" width="600"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/f9ca1b45-f74d-474c-8fd5-5b6b248fac52" width="600"/></td>
+    <td><img src="https://github.com/user-attachments/assets/05fde13d-6776-4b34-966d-d5397db136b4" width="600"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/021390a6-5924-4e0c-8061-cdd747e35b14" width="600"/></td>
+    <td><img src="https://github.com/user-attachments/assets/672a8073-b6d0-40fe-a35e-2c6198e192ce" width="600"/></td>
+  </tr>
+</table>
 
-![Screenshot 2025-06-22 203802](https://github.com/user-attachments/assets/7292ffa0-16bd-4b52-9d0d-a698b5ab0e00)
-
-![Screenshot 2025-06-22 203958](https://github.com/user-attachments/assets/0b1fee7a-e943-45d7-98b8-9d6cb6645b80)
-
-![Screenshot 2025-06-22 202748](https://github.com/user-attachments/assets/97d868e5-309f-452c-b0e8-c9c13e36d34c)
-
-![Screenshot 2025-06-22 202828](https://github.com/user-attachments/assets/39d6c027-1d5e-4a5d-ab61-031be8367983)
-
-![Screenshot 2025-06-22 202848](https://github.com/user-attachments/assets/68e818a0-74b1-483a-9a38-2624e411ca26)
-
-![Screenshot 2025-06-22 203022](https://github.com/user-attachments/assets/d36aab1b-41c7-46af-bba4-4452bacf534b)
-
-![Screenshot 2025-06-22 203237](https://github.com/user-attachments/assets/de3ced3f-055a-434b-84d9-4802239eb0b1)
-
-![Screenshot 2025-06-22 203253](https://github.com/user-attachments/assets/f9ca1b45-f74d-474c-8fd5-5b6b248fac52)
-
-![Screenshot 2025-06-22 204852](https://github.com/user-attachments/assets/05fde13d-6776-4b34-966d-d5397db136b4)
-
-![Screenshot 2025-06-22 203613](https://github.com/user-attachments/assets/021390a6-5924-4e0c-8061-cdd747e35b14)
-
-![Screenshot 2025-06-22 203639](https://github.com/user-attachments/assets/672a8073-b6d0-40fe-a35e-2c6198e192ce)
-
-![Screenshot 2025-06-22 203736](https://github.com/user-attachments/assets/9fa609d6-8741-4057-bc41-ffcafdbe2e43)
-
-![Screenshot 2025-06-22 211707](https://github.com/user-attachments/assets/9783062d-6396-49b4-817b-6a600351971b)
-
+<td>
+  <img src="https://github.com/user-attachments/assets/9fa609d6-8741-4057-bc41-ffcafdbe2e43" alt="Screenshot 1" width="1000" />
+</td>
+<td>
+  <img src="https://github.com/user-attachments/assets/9783062d-6396-49b4-817b-6a600351971b" alt="Screenshot 2" width="1000" />
+</td>
 
 ## ⚙️ How to Run Locally
 
