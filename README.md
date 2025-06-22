@@ -96,6 +96,9 @@ Easy to extend with real Amazon Pay integration or backend
 
 ![Screenshot 2025-06-22 203736](https://github.com/user-attachments/assets/9fa609d6-8741-4057-bc41-ffcafdbe2e43)
 
+![Screenshot 2025-06-22 211707](https://github.com/user-attachments/assets/9783062d-6396-49b4-817b-6a600351971b)
+
+
 ## ⚙️ How to Run Locally
 
 ```bash
