@@ -40,7 +40,7 @@ export const products: Product[] = [
     id: 3,
     title: "Kurta Pajama Set for Men - Cotton Silk",
     price: 45.99,
-    image: "https://images.unsplash.com/photo-1622470952794-db2ac2c7e1a6?w=400&h=400&fit=crop",
+    image: "https://media.istockphoto.com/id/1390050354/photo/a-portrait-of-a-indian-man-in-a-kurta-in-namaste-pose.webp?a=1&b=1&s=612x612&w=0&k=20&c=u03JGOdDFVBlwyihbuWqpb-rB8lTrn_hp2rkKv7s3lk=",
     description: "Traditional Indian kurta pajama set made from premium cotton silk fabric.",
     category: "Clothing",
     rating: {
@@ -52,7 +52,7 @@ export const products: Product[] = [
     id: 4,
     title: "Tata Tea Premium Assam Tea 1kg",
     price: 8.99,
-    image: "https://images.unsplash.com/photo-1594631661960-598c76bcc7c1?w=400&h=400&fit=crop",
+    image: "https://plus.unsplash.com/premium_photo-1731696604052-d0c8527e7831?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8VGF0YSUyMFRlYSUyMFByZW1pdW0lMjBBc3NhbSUyMFRlYSUyMDFrZ3xlbnwwfHwwfHx8MA%3D%3D",
     description: "Premium Assam tea with rich flavor and aroma. Perfect for your morning chai.",
     category: "Grocery & Gourmet Food",
     rating: {
@@ -124,7 +124,7 @@ export const products: Product[] = [
     id: 10,
     title: "Himalaya Neem Face Wash 150ml",
     price: 3.99,
-    image: "https://images.unsplash.com/photo-1556228578-dd2ba2c3b7bc?w=400&h=400&fit=crop",
+    image: "https://plus.unsplash.com/premium_photo-1732737782145-5989a51a8be2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fEhpbWFsYXlhJTIwTmVlbSUyMEZhY2UlMjBXYXNoJTIwMTUwbWx8ZW58MHx8MHx8fDA%3D",
     description: "Herbal face wash with neem and turmeric for acne-prone skin.",
     category: "Beauty & Personal Care",
     rating: {
@@ -136,7 +136,7 @@ export const products: Product[] = [
     id: 11,
     title: "Ghee - Pure Cow Ghee 500ml",
     price: 15.99,
-    image: "https://images.unsplash.com/photo-1628288482694-9b3a58d1d9a2?w=400&h=400&fit=crop",
+    image: "https://media.istockphoto.com/id/2135686726/photo/melted-butter-in-a-glass-jar.webp?a=1&b=1&s=612x612&w=0&k=20&c=Ag11yCtTLbfHJtrNoT4APHK_Htnzzjy0K8F0h9Do3j4=",
     description: "Pure cow ghee made from fresh cream. Rich in flavor and nutrients.",
     category: "Grocery & Gourmet Food",
     rating: {
