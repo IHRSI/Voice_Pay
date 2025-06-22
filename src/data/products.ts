@@ -172,7 +172,7 @@ export const products: Product[] = [
     id: 14,
     title: "Pressure Cooker - Hawkins 5 Litre",
     price: 34.99,
-    image: "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=400&fit=crop",
+    image: "https://images.unsplash.com/photo-1588279102558-dabc7b32d9b1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fER1cmFibGUlMjBhbHVtaW51bSUyMHByZXNzdXJlJTIwY29va2VyJTIwcGVyZmVjdCUyMGZvciUyMEluZGlhbiUyMGNvb2tpbmcufGVufDB8fDB8fHww",
     description: "Durable aluminum pressure cooker perfect for Indian cooking.",
     category: "Home & Kitchen",
     rating: {
