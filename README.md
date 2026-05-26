@@ -2,7 +2,7 @@
 
 ## 🚀 Live Demo
 
-Try it live ➜ [amazonvoicepay.netlify.app](https://amazonvoicepay.netlify.app/)
+Try it live ➜ [amazonvoicepay.netlify.app](https://voicepay1.netlify.app/)
 
 ## Project info
 
