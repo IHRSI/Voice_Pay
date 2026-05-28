@@ -1,47 +1,8 @@
-# <img src="https://github.com/user-attachments/assets/b6ee6820-905b-4022-801b-350ade65f443" alt="Screenshot" width="75" />  VoicePay - Voice-Powered E-Commerce
+# <img src="https://github.com/user-attachments/assets/b6ee6820-905b-4022-801b-350ade65f443" alt="VoicePay Logo" width="75" /> VoicePay — Voice-Powered E-Commerce
 
-## 🚀 Live Demo
+> An **AI-powered, voice-first payment experience** designed to make online shopping more accessible for users with **visual, motor, and cognitive disabilities**.
 
-Try it live ➜ [amazonvoicepay.netlify.app](https://voicepay1.netlify.app/)
-
-## Project info
-
-An accessible e-commerce platform with voice-powered checkout for users with visual, motor, or cognitive disabilities.
-
-## 🧠 What it Is
-
-A web app that:
-- Simulates authentic Payment checkout via voice commands.
-- Responds through voice descriptions at all the sections of the website.
-- Validates payment method and confirms transactions through voice.
-- Built on static site deployment—frontend-only with mock backend behavior.
-
----
-
-## 🧩 Features
-
-- **Voice-triggered checkout** using `SpeechRecognition`.
-- Amount and order reference detection via voice.
-- Mock validation of billing methods (Amazon Pay–style flow).
-- Success/error announcements via `SpeechSynthesis`.
-- Multilingual voice support for commands in multiple languages beyond English.
-
----
-
-## ➕ Future Enhancements
-
-- 🔗 **Real Amazon Pay integration** via official SDK/API for actual transactions.
-- 🧾 **Replace mock data** with a real-time order and payment management system.
-- ⚠️ **Robust error handling** for microphone access issues and unsupported browsers.
-- 🌐 **Multilingual voice support** for commands in multiple languages beyond English.
-
----
-
-## 🛠️ Why You’ll Love It
-
-Easy to extend with real Amazon Pay integration or backend
-
-## 🛠️ Tech Stack
+🌐 **Live Demo:** https://voicepay1.netlify.app/
 
 <p align="left">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
@@ -53,20 +14,79 @@ Easy to extend with real Amazon Pay integration or backend
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
 </p>
 
-- ⚡ **Vite** – Fast and optimized build tool
-- 🟦 **TypeScript** – Type-safe JavaScript for scalable development
-- ⚛️ **React** – Component-based UI framework
-- 🎨 **shadcn/ui** – Accessible UI components built on Radix and Tailwind
-- 💨 **Tailwind CSS** – Utility-first CSS framework for styling
-- 🧠 **Web Speech API** – Voice input (SpeechRecognition) & output (SpeechSynthesis)
-- ☁️ **Netlify** – For seamless deployment and hosting
+---
 
-- No backend or database required — everything runs client-side
+## 📌 Overview
+
+**VoicePay** is an accessible e-commerce platform that introduces a **voice-powered checkout experience** for users with disabilities.
+
+Inspired by an **Amazon-style payment flow**, the platform enables users to complete checkout interactions through **voice commands**, **speech feedback**, and **multilingual accessibility support**.
+
+The system simulates a real-world payment process while prioritizing **hands-free navigation**, **accessibility**, and **inclusive digital experiences**.
+
+---
+
+## 🎯 Problem Statement
+
+Traditional online checkout systems can create accessibility barriers for users with **visual, motor, or cognitive impairments**.
+
+**VoicePay** addresses this challenge by providing a **voice-first payment experience**, enabling users to navigate checkout workflows using:
+
+* 🎙️ Voice Commands
+* 🔊 Speech Feedback
+* 🌍 Multilingual Support
+* 🛒 Accessible Payment Navigation
+
+---
+
+## ✨ Features
+
+### 🎙️ Voice-Powered Checkout
+
+* Voice-triggered payment flow using `SpeechRecognition`
+* Hands-free checkout interaction
+* Voice confirmation for payment steps
+
+### 🧠 Smart Voice Interaction
+
+* Detects **amounts and order references**
+* Validates payment methods
+* Confirms transactions using voice feedback
+
+### 🔊 Speech Assistance
+
+* Uses `SpeechSynthesis` for spoken responses
+* Announces success/error states
+* Guides users through checkout
+
+### 🌍 Accessibility Support
+
+* Multilingual voice support
+* Designed for accessibility-first interaction
+* Inclusive experience for diverse users
+
+### ⚡ Frontend-Only Architecture
+
+* Static site deployment
+* Mock backend payment behavior
+* Lightweight and easy to deploy
+
+---
+
+## 🏆 Highlights
+
+✔️ Designed a **voice-first payment flow** for accessibility
+
+✔️ Implemented **speech-based checkout** using **Web Speech API**
+
+✔️ Added **multilingual voice interaction support**
+
+✔️ Built an **Amazon-inspired payment experience** focused on inclusivity
+
 
 ---
 
 ## 🎬 VoicePay Flow Walkthrough
-
 
 <table>
   <tr>
@@ -99,60 +119,74 @@ Easy to extend with real Amazon Pay integration or backend
   </tr>
 </table>
 
-<td>
-  <img src="https://github.com/user-attachments/assets/9fa609d6-8741-4057-bc41-ffcafdbe2e43" alt="Screenshot 1" width="1000" />
-</td>
-<td>
-  <img src="https://github.com/user-attachments/assets/9783062d-6396-49b4-817b-6a600351971b" alt="Screenshot 2" width="1000" />
-</td>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9fa609d6-8741-4057-bc41-ffcafdbe2e43" width="1000" />
+</p>
 
-## ⚙️ How to Run Locally
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9783062d-6396-49b4-817b-6a600351971b" width="1000" />
+</p>
+
+---
+
+## ⚙️ Getting Started
+
+### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/amazon-voice-pay.git
-cd amazon-voice-pay        # ✅ Enters the project folder
-npm install                # ✅ Installs all dependencies from package.json
-npm run dev                # ✅ Starts the Vite development server
+git clone https://github.com/IHRSI/VoicePay.git
+cd VoicePay
+```
 
+### Install Dependencies
 
+```bash
+npm install
+```
 
-## How can I edit this code?
+### Start Development Server
 
-There are several ways of editing your application.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes to your version control system.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+```bash
 npm run dev
 ```
 
-## How can I deploy this project?
+Runs locally at:
 
-You can deploy this project using any modern hosting platform that supports static sites, such as:
+```bash
+http://localhost:5173
+```
 
-- Vercel
-- Netlify
-- GitHub Pages
-- Firebase Hosting
+---
 
-Simply build the project using `npm run build` and deploy the generated `dist` folder.
+## 🚀 Deployment
 
-## Can I connect a custom domain?
+You can deploy VoicePay using:
 
-Yes, you can! Most hosting platforms support custom domain connections. Check your hosting platform's documentation for specific instructions on how to connect a custom domain.
+* Netlify
+* Vercel
+* GitHub Pages
+* Firebase Hosting
+
+Build production bundle:
+
+```bash
+npm run build
+```
+
+Deploy the generated `dist` folder.
+
+---
+
+## 🔮 Future Enhancements
+
+* 🔗 Real payment gateway integration
+* 🧾 Backend-based order management
+* ⚠️ Improved microphone error handling
+* 🌍 Expanded multilingual support
+* 🔐 Secure authentication and payment validation
+
+---
+
+## 👨‍💻 Developed For
+
+Built to promote **inclusive digital payments and accessibility-first user experiences**.
